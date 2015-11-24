@@ -1,0 +1,28 @@
+name: Soulfuel
+favicon: null
+layout_spectrum: 0.39014482218772173
+typography_spectrum: 0.8727359734475613
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.549657697789371
+  lightness: 0.629978425335139
+  saturation: 0.035427897702902555
+  rhythmicContrast: 0.047032302943989635
+purpose: []
