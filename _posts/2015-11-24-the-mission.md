@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Soul Fuel Mission Statement
-datePublished: '2015-11-24T04:20:48.006Z'
-dateModified: '2015-11-24T04:20:12.469Z'
+datePublished: '2015-11-24T04:22:23.265Z'
+dateModified: '2015-11-24T04:22:19.823Z'
 title: The Mission
 author: []
 sourcePath: _posts/2015-11-24-the-mission.md
