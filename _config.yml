@@ -1,6 +1,6 @@
 name: Soulfuel
 favicon: null
-layout_spectrum: 0.99922
+layout_spectrum: 1
 typography_spectrum: 0.25274
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#6c6c6c'
     - '#8d8d8d'
   brandStrength: 0.5
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0
+  lightness: 0.625
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
