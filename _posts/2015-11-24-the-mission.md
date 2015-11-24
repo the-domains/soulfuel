@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Mission Statement
-datePublished: '2015-11-24T03:38:28.261Z'
-dateModified: '2015-11-24T03:37:33.738Z'
+datePublished: '2015-11-24T03:43:51.291Z'
+dateModified: '2015-11-24T03:39:35.549Z'
 title: The Mission
 author: []
 authors: []
