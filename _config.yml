@@ -1,5 +1,7 @@
-favicon: null
-name: Soulfuel
+analytics:
+  twitter: null
+  google: UA-64714395-1
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -19,8 +21,8 @@ collections:
 purpose: []
 color:
   saturation: 1
+  lightness: 0.4446808
   brandStrength: 1
-  lightness: 0.1489362
   brandColors:
     - '#FFFFFF'
     - '#79777E'
@@ -29,12 +31,10 @@ color:
     - '#B2B2B2'
   rhythmicContrast: 0.5
 typography_spectrum: 0.5404255
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: UA-64714395-1
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 1
+favicon: null
+name: Soulfuel
