@@ -1,28 +1,40 @@
-name: Soulfuel
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.25274
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-64714395-1
-  facebook: null
-  twitter: null
+name: Soulfuel
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#00ff00'
-    - '#4e4d4d'
-    - '#6c6c6c'
-    - '#8d8d8d'
-  brandStrength: 0.5
-  lightness: 0.625
-  saturation: 0.4375
-  rhythmicContrast: 0.5
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.4375
+  lightness: 0.625
+  brandStrength: 1
+  brandColors:
+    - '#030204'
+    - '#383030'
+    - '#999A9A'
+    - '#D0A292'
+    - '#390E05'
+  rhythmicContrast: 0.5
+typography_spectrum: 0.5404255
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: UA-64714395-1
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
